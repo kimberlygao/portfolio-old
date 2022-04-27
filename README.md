@@ -4,8 +4,8 @@ A personal site for insight about me, my professional career, & projects
 ## Video
 
 ## Links
-[Figma]() <br />
-[Live Site]()
+[Figma](https://www.figma.com/file/zjYSYTKtrlL6hVziERA005/PUI-Final-Project?node-id=0%3A1) <br />
+[Live Site](https://kimberlygao-portfolio.web.app/)
 
 ## Description
 As a portfolio, the purpose of my site is to showcase my work and accomplishments in a way that reflects who I am. The site includes a little about me, my professional experience, my past projects, and ways to connect. Beyond the content, the simple and clean design conveys who I am as a person and what I value. The use of animations and hover effects helps make the website interactive and engaging. My target audience is future employers or those who I might work with in a professional setting.
