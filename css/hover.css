@@ -74,3 +74,9 @@ path {
         top: 30%;
     }
 }
+
+@media screen and (min-width: 1000px) {
+    .left-phrase, .right-phrase {
+       font-size: 60px;
+    }
+  }
