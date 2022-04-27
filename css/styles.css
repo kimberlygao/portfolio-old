@@ -1,0 +1,82 @@
+body {
+    background-color: #FCF9F7;
+    margin: auto;
+    padding: 2vw;
+    max-width: 1150px; 
+    color: #424242;
+}
+  
+/* logo svg styling */
+.svg-sage {
+    fill: #96AA85;
+}
+
+.svg-path {
+    fill: none; 
+    paint-order: fill markers; 
+    stroke-linecap: round; 
+    stroke-linejoin: round; 
+    stroke: #FCF9F7; 
+    stroke-width: 10px;
+}
+
+
+.sage {
+    color: #96AA85;
+}
+
+/* heading styling */
+h1 {
+    margin: 1vw;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+/* all images default b&w, color on hover */
+img {
+    filter: grayscale(100%);
+    transition: 0.3s;
+  }
+
+img:hover {
+    filter: grayscale(0%);
+}
+
+/* NAVIGATION BAR  */
+
+/* default */
+.navbar-nav .nav-link {
+    padding: 8px;
+    color: #96AA85;
+    position: relative;
+    font-size: 20px;
+}
+
+/* active page */
+.navbar-nav .nav-link.active {
+    background-color: #96AA85;
+    color: #FCF9F7;
+}
+
+/* underline hover transition */
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #96AA85;
+    transform-origin: bottom left;
+    transition: transform 0.3s ease-out;
+}
+.nav-link:hover::after {
+    padding-bottom: 3px;
+    margin-bottom: 4px;
+    transform: scaleX(1);
+    transform-origin: bottom right;
+}
+

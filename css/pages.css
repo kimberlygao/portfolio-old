@@ -1,0 +1,56 @@
+/* styling for non-home pages */
+
+/* transition for hover animation */
+.nav-svg {
+    width: 20vh;
+    transition: all 0.3s;
+    transform-origin: 50% 50%;
+}
+  
+.nav-svg:hover {
+    transform: scale(1.1);
+  }
+  
+/* card content */
+.card-img-top {
+    margin: 0px;
+}
+
+.card {
+    padding: 30px 30px 0px 30px;
+    max-width: 18rem;
+    min-width: 8rem;
+}
+
+.card-body {
+    padding: 20px 0px;
+}
+
+
+/* main content */
+.body-div {
+    max-width: 1000px;
+}
+
+/* connect page icons */
+.icon-bar {
+    margin: 2vw;
+    padding: 2vw;
+    display: inline-block;
+}
+
+.icon-bar a {
+    margin: 3vw;
+    padding: 2vw 2.3vw;
+    color: #96AA85;
+    font-size: 7vw;
+    width: 10vw;
+    height: 10vw;
+    line-height: 10vw;
+    transition: 0.5s;
+}
+
+.icon-bar a:hover {
+    color: #FCF9F7;
+    background-color: #96AA85;
+}

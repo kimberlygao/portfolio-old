@@ -1,0 +1,76 @@
+/* styling for hover feature on home page */
+
+body {
+    height: 100%;
+    transition: 0.5s;
+    margin: auto;
+}
+
+html {
+    height: 100%;
+    transition: 0.5s;
+}
+
+.left-phrase {
+    font-size: 4.8vw;
+    color: #FCF9F7;
+    position: absolute;
+    font-weight: 700;
+    top: 2%;
+    left: 2%;
+}
+
+.right-phrase {
+    font-size: 4.8vw;
+    color: #FCF9F7;
+    position: absolute;
+    bottom: 2%; 
+    right: 2%;
+    text-align: right;
+    font-weight: 700;
+
+}
+
+.box {
+    position: relative;
+    height: 100%;
+    margin: 20x;
+}
+
+svg circle {
+    fill: #96AA85;
+    transition: 0.5s;
+   
+}
+
+.svg-sage {
+    fill: #96AA85;
+}
+
+.center-circle path {
+    fill: none; 
+    paint-order: fill markers; 
+    stroke-linecap: round; 
+    stroke-linejoin: round; 
+    stroke: #FCF9F7; 
+    stroke-width: 10px;
+}
+
+.center-circle {
+    position: absolute;
+    width: 45%;
+    text-align: center;
+    left: 25%; 
+    top: 9vh; 
+    transition: 0.5s;
+}
+
+path {
+    transition: 0.5s;
+}
+
+@media only screen and (max-width: 768px) {
+    .center-circle {
+        top: 30%;
+    }
+}
