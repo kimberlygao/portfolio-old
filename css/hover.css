@@ -76,7 +76,16 @@ path {
 }
 
 @media screen and (min-width: 1000px) {
-    .left-phrase, .right-phrase {
-       font-size: 60px;
+    .left-phrase {
+        font-size: 60px;
+        top: 1%;
+        left: 1%;
+    }
+    
+    .right-phrase {
+        font-size: 60px;
+        bottom: 1%; 
+        right: 1%;
+    
     }
   }
