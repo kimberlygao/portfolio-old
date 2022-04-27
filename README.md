@@ -1,7 +1,8 @@
 # Portfolio
 A personal site for insight about me, my professional career, & projects
 
-## Video
+## Demo
+[Video](https://drive.google.com/file/d/1NvAX0EOuhYXMtVkLsy99RBHVwkeBN6IH/view?usp=sharing)
 
 ## Links
 [Figma](https://www.figma.com/file/zjYSYTKtrlL6hVziERA005/PUI-Final-Project?node-id=0%3A1) <br />
