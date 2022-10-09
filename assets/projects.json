@@ -1,0 +1,66 @@
+[
+  {
+    "name": "app dev",
+    "description": "three month mobile app development group project",
+    "tags": ["ios dev", "ui/ux design"],
+    "tech": ["figma", "swift", "firebase", "google maps api"],
+    "url": "",
+    "date": "december 2022",
+    "img": "assets/img/app.png"
+  },
+  {
+    "name": "Bridal Shower Invite",
+    "description": "one week design and development personal project",
+    "tags": ["web dev", "ui/ux design"],
+    "tech": ["html/css/js", "figma"],
+    "url": "",
+    "date": "october 2022",
+    "img": "assets/img/bridal.png"
+  },
+  {
+    "name": "CMU SIO",
+    "description": "two month user interface design and development",
+    "tags": ["ui/ux design", "web dev"],
+    "tech": ["figma", "html/css/js", "jQuery"],
+    "url": "https://cmu-sio.web.app/index.html",
+    "date": "may 2022",
+    "img": "assets/img/sio.png"
+  },
+  {
+    "name": "Duquesne Incline",
+    "description": "two week web development project",
+    "tags": ["web dev", "ui/ux design"],
+    "tech": ["html/css"],
+    "url": "",
+    "date": "may 2021",
+    "img": "assets/img/duquesne.png"
+  },
+  {
+    "name": "Traview",
+    "description": "three month user centered research and evaluation group project",
+    "tags": ["research & evaluation"],
+    "tech": ["figma", "research methods"],
+    "url": "https://www.figma.com/proto/PYqnOj2mrYxEr2lmmWbv8z/Poster?node-id=8%3A2&scaling=min-zoom&page-id=0%3A1",
+    "date": "may 2022",
+    "img": "assets/img/traview.png"
+  },
+  {
+    "name": "Microsite Prototype",
+    "description": "one week content design challenge",
+    "tags": ["ui/ux design", "info design"],
+    "tech": ["figma"],
+    "url": "https://www.figma.com/proto/XYUdaoGOI6MS9bHNuFZokg/Microsite-Prototype?node-id=63%3A402&starting-point-node-id=63%3A402",
+    "date": "september 2021",
+    "img": "assets/img/forum.png"
+  },
+
+  {
+    "name": "AI, Society, and Humanity Case Studies",
+    "description": "ethical case studies on autonomous vehicles, predictive policing, and virtual agents",
+    "tags": ["case study", "research"],
+    "tech": [],
+    "url": "",
+    "date": "december 2020",
+    "img": ""
+  }
+]
