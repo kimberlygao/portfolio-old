@@ -24,7 +24,26 @@
     "tech": ["figma", "html/css/js", "jQuery"],
     "url": "https://cmu-sio.web.app/index.html",
     "date": "may 2022",
-    "img": "assets/img/sio.png"
+    "img": "assets/img/sio.png",
+    "sections": ["overview", "problem", "intial rapid prototyping"],
+    "breakdown": {
+      "overview": {
+        "text": "Carnegie Mellon’s Student Information Online (SIO) is constantly critized for its displeasing design and confusing user flow. For this project, I redesigned the course registration and scheduling feature of the site. From initial rapid prototyping to heuristic evaluation, the interface undertook several iterations between Figma to deployment. While still a work in progress, the recreation offers an alternative and intuitive design for course catalog and registration.",
+        "images": ["image url"]
+      },
+      "problem": {
+        "images": ["", "", ""],
+        "captions": ["Plan Schedule", "Browse Courses", "View Courses"],
+        "text": "Existing Issues to Address",
+        "bullets": ["inability to browse all courses without searching or filtering by at least one catagory", 
+                    "cognitive overload across all pages",
+                    "accessbility due to color contrast of text",
+                    "cannot view current schedule while browsing courses",
+                    "differentiation between undergraduate and graduate level courses",
+                    "improve search feature overall",
+                    "attending to schedule conflicts"] 
+      }
+    }
   },
   {
     "name": "Duquesne Incline",
@@ -61,6 +80,16 @@
     "tech": [],
     "url": "",
     "date": "december 2020",
+    "img": ""
+  },
+
+  {
+    "name": "Scotty Spaces",
+    "description": "mini vr design project",
+    "tags": ["case study", "research", "vr design"],
+    "tech": [],
+    "url": "",
+    "date": "april 2021",
     "img": ""
   }
 ]
